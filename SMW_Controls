@@ -1,0 +1,4 @@
+To make controls in SMW more reasonable, change line #831 in Makefile.common
+from SMW_CONTROLLER_BINDINGS = $(SMW_BINDINGS_ZELDA_A)
+to
+SMW_CONTROLLER_BINDINGS = $(SMW_BINDINGS_ZELDA_B)
